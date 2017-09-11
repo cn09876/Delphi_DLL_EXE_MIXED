@@ -1,0 +1,2 @@
+# Delphi_DLL_EXE_MIXED
+exe程序同时增加DLL功能，其它程序可按DLL约定调用此EXE
